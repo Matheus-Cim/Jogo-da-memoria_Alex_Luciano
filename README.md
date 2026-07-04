@@ -1,9 +1,15 @@
-Jogo da Memória - Trabalho M3 
+# Jogo da Memória - Trabalho M3 
 
 Disciplina: Algoritmos e Programação - UNIVALI Itajaí 
 
 Professor Responsavel: Alex Luciano Roesler Rese 
 
-Alunos: Jonas Olos Roslindo, Matheus Pedro Cim
+## Alunos: 
+Matheus Pedro Cim;
+Jonas Olos Roslindo
 
-Trabalho realizado com a linguagem C++
+🛠️ Tecnologias usadas
+C++
+Biblioteca iostream
+Biblioteca cstdlib
+Biblioteca ctime
