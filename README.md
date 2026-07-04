@@ -8,7 +8,7 @@ Professor Responsavel: Alex Luciano Roesler Rese
 - Matheus Pedro Cim
 - Jonas Olos Roslindo
 
-### 🛠️ Tecnologias usadas
+## 🛠️ Tecnologias usadas:
 - C++
 - Biblioteca iostream
 - Biblioteca cstdlib
